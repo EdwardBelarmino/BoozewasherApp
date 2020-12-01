@@ -18,5 +18,10 @@ namespace BoozewasherApp.Queries.ServiceQueries
             context.Services.Add(service);
             context.SaveChanges();
         }
+
+        private void test()
+        {
+
+        }
     }
 }
