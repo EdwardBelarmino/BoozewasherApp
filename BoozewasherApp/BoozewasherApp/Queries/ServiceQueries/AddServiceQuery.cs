@@ -19,9 +19,5 @@ namespace BoozewasherApp.Queries.ServiceQueries
             context.SaveChanges();
         }
 
-        private void test()
-        {
-
-        }
     }
 }
